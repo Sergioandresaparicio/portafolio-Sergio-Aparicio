@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Retro Windows logo flag -->
+  <!-- Top Left - Red -->
+  <path d="M4 6c4.5 0 6.5-2 11-2v9c-4.5 0-6.5 2-11 2V6z" fill="#ff5555" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Top Right - Green -->
+  <path d="M17 4c4.5 0 6.5 2 11 2v9c-4.5 0-6.5-2-11-2V4z" fill="#55ff55" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Bottom Left - Blue -->
+  <path d="M4 16c4.5 0 6.5-2 11-2v9c-4.5 0-6.5 2-11 2v-9z" fill="#5555ff" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Bottom Right - Yellow -->
+  <path d="M17 14c4.5 0 6.5 2 11 2v9c-4.5 0-6.5-2-11-2v-9z" fill="#ffff55" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

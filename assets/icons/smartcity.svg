@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Sky background -->
+  <rect x="2" y="2" width="28" height="28" fill="#000080" />
+  <!-- Stars or nodes in sky -->
+  <circle cx="7" cy="8" r="1" fill="#00ffff" />
+  <circle cx="25" cy="6" r="1" fill="#00ffff" />
+  <circle cx="16" cy="5" r="1" fill="#ffff00" />
+  <!-- Buildings (Grey/Dark Grey silhouettes) -->
+  <rect x="4" y="16" width="6" height="12" fill="#808080" stroke="#000000" stroke-width="1" />
+  <rect x="9" y="10" width="8" height="18" fill="#c0c0c0" stroke="#000000" stroke-width="1" />
+  <rect x="16" y="14" width="7" height="14" fill="#808080" stroke="#000000" stroke-width="1" />
+  <rect x="22" y="18" width="6" height="10" fill="#c0c0c0" stroke="#000000" stroke-width="1" />
+  <!-- Windows in buildings -->
+  <rect x="11" y="12" width="2" height="2" fill="#ffff00" />
+  <rect x="14" y="12" width="2" height="2" fill="#ffff00" />
+  <rect x="11" y="16" width="2" height="2" fill="#ffff00" />
+  <rect x="14" y="16" width="2" height="2" fill="#ffff00" />
+  <rect x="18" y="16" width="2" height="2" fill="#ffff00" />
+  <rect x="18" y="20" width="2" height="2" fill="#ffff00" />
+  <rect x="24" y="20" width="2" height="2" fill="#ffff00" />
+  <!-- Network lines / Signal signals -->
+  <path d="M7 8l9-3 9 1M16 5v5" fill="none" stroke="#00ffff" stroke-width="1" stroke-dasharray="2,2" />
+</svg>
